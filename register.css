@@ -1,0 +1,29 @@
+*{
+    background-image: url(cake.avif);
+    background-repeat: no-repeat;
+    background-size: 1920px 980px;
+}
+form{
+    border: solid;
+    width: 500px;
+    margin-left: 600px;
+    margin-bottom: 100px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+label{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    height: 20px;
+    border-radius: 20px;
+}
+button{
+    color: white;
+    height: 30px;
+    border-radius: 20px;
+}
